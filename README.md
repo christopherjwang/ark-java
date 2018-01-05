@@ -1,7 +1,8 @@
 # ark-java
 :coffee: Lite client library in Java
 
-[ ![Download](https://api.bintray.com/packages/arkecosystem/ark-java/client/images/download.svg) ](https://bintray.com/arkecosystem/ark-java/client/_latestVersion)
+[![Build Status](https://travis-ci.org/ArkEcosystem/ark-java.svg?branch=travis-ci)](https://travis-ci.org/ArkEcosystem/ark-java)
+[![Download](https://api.bintray.com/packages/arkecosystem/ark-java/client/images/download.svg)](https://bintray.com/arkecosystem/ark-java/client/_latestVersion)
 
 # Authors
 FX Thoorens fx@ark.io
